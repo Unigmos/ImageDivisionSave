@@ -1,7 +1,6 @@
 from PIL import Image,ImageTk,ImageOps
 import tkinter
 from tkinter import filedialog
-import cv2
 
 #画像サイズ
 image_width = 480
